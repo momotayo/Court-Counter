@@ -1,0 +1,1 @@
+This project creates a court counter and displays the final result once the END button is clicked.
